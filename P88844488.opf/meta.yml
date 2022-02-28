@@ -1,0 +1,18 @@
+id: P88844488
+initial_creation_type: input
+source_metadata:
+  title: Tertön Mingyur Dorje Series
+  language: fr
+  description: 'Texts by the treasure-revealer Mingyur Dorje (mi ''gyur rdo rje, 1645–1667):'
+  volume:
+    e166a60f9df2496aa0e7704efd5b7f54:
+      title: Brief Sukhāvatī Aspiration
+      parent: Aspiration Prayers
+    7410653c8f3947dda76ace308bc9e74a:
+      title: Prayer to Behold Amitābha in Dreams
+      parent: Aspiration Prayers
+    eebd61d8b8be4bc0b22ef588cfd9ec7f:
+      title: Dedication from Vajravārāhī Cycle of Namchö revealed by Mingyur Dorje
+      parent: Dedication
+created_at: '2022-03-01T01:41:45.007995'
+last_modified_at: '2022-03-01T01:41:45.007998'
